@@ -2,7 +2,7 @@ var head = document.getElementsByTagName('HEAD')[0];
 var link = document.createElement('link'); 
 link.rel = 'stylesheet';  
 link.type = 'text/css'; 
-link.href = 'css/style.css';  
+link.href = 'https://gkanishk.github.io/jsplugin/css/style.css';  
 head.appendChild(link); 
 
 var script = document.getElementById('emb')
